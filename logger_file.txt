@@ -1,0 +1,8 @@
+{"sku":"abc-4589","new_qoh":4,"old_qoh":0}
+{"sku":"hjg-3821","new_qoh":2,"old_qoh":0}
+{"sku":"xrf-3827","new_qoh":12,"old_qoh":0}
+{"sku":"eer-4521","new_qoh":20,"old_qoh":0}
+{"sku":"qws-6783","new_qoh":1,"old_qoh":0}
+{"sku":"xrf-3827","new_qoh":7,"old_qoh":12}
+{"sku":"eer-4521","new_qoh":4,"old_qoh":20}
+{"sku":"eer-4521","new_qoh":4,"old_qoh":4}
